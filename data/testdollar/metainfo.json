@@ -1,0 +1,8 @@
+{
+ "name": "dollar",
+ "description": "динамика курса доллара за период 2009-2022 гг по отношению к другим валютам",
+ "object_type": "sequence",
+ "data_source": "http://www.cbr.ru/currency_base/dynamics/",
+ "registr_date": "27.03.2023",
+ "creator": "garrynn"
+}

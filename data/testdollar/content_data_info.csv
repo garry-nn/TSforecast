@@ -1,0 +1,7 @@
+index;dtype;ftype;minval;maxval;unique_vals
+datetime;string;datetime;nan;nan;nan
+dollar;float;numeric;0;200;nan
+d_dollar;float;numeric;-30;50;nan
+day_of_week;integer;ordinal;0;6;7
+sin_month;float;numeric;-1;1;12
+cos_month;float;numeric;-1;1;12
